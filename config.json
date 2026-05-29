@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authserify",
+        "uuid": 277875,
+        "checksum": "gfe4e8"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
